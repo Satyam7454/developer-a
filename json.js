@@ -1,0 +1,6 @@
+console.log(alert(Prateek))
+console.log(alert(Prateek))
+console.log(alert(Prateek))
+console.log(alert(Prateek))
+console.log(alert(Prateek))
+console.log(alert(Prateek))
