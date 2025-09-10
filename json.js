@@ -2,5 +2,5 @@ console.log(alert(Prateek))
 
 
 const text = () => {
-    console.log("Hello arrow function")
+    document.writeln("Hello arrow function")
 }
